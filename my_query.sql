@@ -1,0 +1,1 @@
+select * from nswdbdwh.dm_quo_rekom
